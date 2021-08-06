@@ -1,3 +1,4 @@
+It shows location based weather screen, it fetches current gps location and sends data to open weather API and displays the current temperature and weather condition, Also integrated with a search bar in which you can search any particular city and it will show its weather condition.
 
 
 ## Fix for App Transport Security Override
